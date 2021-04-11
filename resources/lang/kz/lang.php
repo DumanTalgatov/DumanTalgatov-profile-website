@@ -1,0 +1,22 @@
+<?php
+    return['Hello'=>'Сәлем',
+    'My name is Duman'=>"Менің атым Думан",
+    "Im sophomore"=>"Мен екінші курс студентімін",
+    'About me'=>'Мен жайлы',
+    'Contacts'=>'Байланыстар',
+    'Created by me'=>'Жасаған мен',
+    'Home'=>'Үйге',
+    'Education'=>'Білім',
+    'Skills'=>'Дағдылықтар',
+    'Languages'=>'Тілдер',
+    'I was born in East Kazakhstan. Im 19 age old. I like detective serials, anime, rap, eat and sleep'=>'Мен ШҚОда дүниеге келдім, жасым 19да',
+    'Now im second year student at Suleyman Demirel University. My specialization is Informational Systems'=>'Қазіргі таңда СДУда екінші курс студентімін',
+    'I can learn something if i need very immediatly, for example before few days of aftograding in ICT, i have learn basics of Python and OpenCV library'=>'Тез үйрене аламын',
+    'Java, Html, Css, JS...'=>'Java, Html, Css, JS...',
+    'Contact me'=>'Байланысу',
+    'Send'=>'Жіберу',
+    'Name'=>'Аты',
+    'Email'=>'Почтасы',
+    'Telephone number'=>'Телефон номері',
+    'Message'=>'Хабарлама']
+?>

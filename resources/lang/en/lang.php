@@ -1,0 +1,22 @@
+<?php
+    return['Hello'=>'Hello',
+    'My name is Duman'=>'My name is Duman',
+    "Im sophomore"=>"Im sophomore",
+    'About me'=>'About me',
+    'Contacts'=>'Contacts',
+    'Created by me'=>'Created by me',
+    'Home'=>'Home',
+    'Education'=>'Education',
+    'Skills'=>'Skills',
+    'Languages'=>'Languages',
+    'I was born in East Kazakhstan. Im 19 age old. I like detective serials, anime, rap, eat and sleep'=>'I was born in East Kazakhstan. Im 19 age old. I like detective serials, anime, rap, eat and sleep',
+    'Now im second year student at Suleyman Demirel University. My specialization is Informational Systems'=>'Now im second year student at Suleyman Demirel University. My specialization is Informational Systems',
+    'I can learn something if i need very immediatly, for example before few days of aftograding in ICT, i have learn basics of Python and OpenCV library'=>'I can learn something if i need very immediatly, for example before few days of aftograding in ICT, i have learn basics of Python and OpenCV library',
+    'Java, Html, Css, JS...'=>'Java, Html, Css, JS...',
+    'Contact me'=>'Contact me',
+    'Send'=>'Send',
+    'Name'=>'Name',
+    'Email'=>'Email',
+    'Telephone number'=>'Telephone number',
+    'Message'=>'Message']   
+?>

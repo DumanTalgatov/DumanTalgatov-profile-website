@@ -20,13 +20,16 @@ use App\Http\Controllers\BlogController;
 Route::get('/', function () {
     return view('welcome');
 })->name('welcome');
-Route::get('/duman', function () {
+Route::get('/duman/{lang}', function ($lang) {
+    App::setlocale($lang);
     return view('cv_website');
 })->name('home');
-Route::get('/about', function(){
+Route::get('/about/{lang}', function($lang){
+    App::setlocale($lang);
     return view('about');
 })->name('about');
-Route::get('/contacts', function(){
+Route::get('/contacts/{lang}', function($lang){
+    App::setlocale($lang);
     return view('contacts');
 })->name('contacts');
 Route::get('/post/create', function(){
